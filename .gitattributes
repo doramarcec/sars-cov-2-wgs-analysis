@@ -1,2 +1,3 @@
 *.html linguist-vendored
 *.tex linguist-vendored
+*.Rmd linguist-language=R
